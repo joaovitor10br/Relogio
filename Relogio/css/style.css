@@ -33,8 +33,8 @@ main{
     font-size: 1.2rem;
     font-weight: 600;
     position: absolute;
-    width: 100%;
-    height: 100%;
+    width: 95%;
+    height: 95%;
     text-align: center;
     padding: 5px;
 }
@@ -123,4 +123,62 @@ main{
     border-radius: 20px;
     background-color: #a52a2a;
     position: absolute;
+}
+
+.ponteiro{
+    font-size: 1rem;
+    font-weight: bolder;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding: 30px;
+}
+
+.ponteiro1{
+    transform: rotate(30deg);
+}
+
+.ponteiro2{
+    transform: rotate(60deg);
+}
+
+.ponteiro3{
+    transform: rotate(90deg);
+}
+
+.ponteiro4{
+    transform: rotate(120deg);
+}
+
+.ponteiro5{
+    transform: rotate(150deg);
+}
+
+.ponteiro6{
+    transform: rotate(180deg);
+}
+
+.ponteiro7{
+    transform: rotate(210deg);
+}
+
+.ponteiro8{
+    transform: rotate(240deg);
+}
+
+.ponteiro9{
+    transform: rotate(270deg);
+}
+
+.ponteiro10{
+    transform: rotate(300deg);
+}
+
+.ponteiro11{
+    transform: rotate(330deg);
+}
+
+.ponteiro12{
+    transform: rotate(360deg);
 }
